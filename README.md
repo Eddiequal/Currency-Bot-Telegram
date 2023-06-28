@@ -35,5 +35,3 @@ Contributing
 
 Contributions are welcome! If you find any issues or want to add new features to the code, feel free to open a pull request.
 
-License
-This code is licensed under the MIT License.
