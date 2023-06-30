@@ -4,8 +4,8 @@ import telebot
 from telebot.types import KeyboardButton,ReplyKeyboardMarkup
 
 
-BOT_TOKEN = '6066120391:AAHKyUbdd1bfpiR8snnt24ZmyQSf7taaMT0'
-EXC_TOKEN = '9122b1356a5841e63d685645'
+BOT_TOKEN = 'YOUR BOT TOKEN'
+EXC_TOKEN = 'YOUR EXC TOKEN'
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
